@@ -1,0 +1,37 @@
+
+.heading {
+    margin-right: 2%;
+    padding-left: 22%;
+    min-height: 200px;
+}
+
+.container2 {
+    align-content: center;
+    align-items: center;
+    
+}
+
+.adminHead {
+    display: flex;
+    flex-direction: row;
+    gap: 80%;
+    padding: 10px;
+}
+.rowBody {
+    display: flex;
+}
+h5{
+    font-size: 15px;
+}
+
+
+.card {
+    width: 100%;
+    font-weight: bolder;
+}
+
+.titleCard {
+    font-size: 12px;
+    font-weight: 600;
+    color: rgb(91, 90, 90);
+}
